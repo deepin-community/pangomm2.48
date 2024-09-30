@@ -1,0 +1,24 @@
+#!/bin/sh -eu
+
+workdir=$(mktemp -d)
+cleanup() {
+    rm -fr "$workdir"
+}
+trap cleanup 0 INT QUIT ABRT PIPE TERM
+cd "$workdir"
+
+out=out
+
+<<-\EOF g++ -x c++ - -o "$out" -std=c++17 $(pkg-config --cflags --libs pangomm-2.48)
+	#include <pangomm.h>
+	int main(void) {
+	    Pango::FontDescription f = Pango::FontDescription("Foo");
+	    f.set_gravity(Pango::Gravity::EAST);
+	    f.set_weight(Pango::Weight::BOLD);
+	    return(f.to_string().compare("Foo Bold Rotated-Left"));
+	}
+EOF
+
+echo "build: OK"
+./"$out"
+echo "run: OK"

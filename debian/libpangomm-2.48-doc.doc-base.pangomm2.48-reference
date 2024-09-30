@@ -1,0 +1,10 @@
+Document: pangomm2.48-reference
+Title: pangomm2.48 Reference Manual
+Author: Doxygen
+Abstract: Reference Manual for pangomm2.48 (C++ bindings for Pango)
+Section: Programming/C++
+
+Format: HTML
+Index: /usr/share/doc/pangomm-2.48/reference/html/index.html
+Files: /usr/share/doc/pangomm-2.48/reference/html/*.html
+
