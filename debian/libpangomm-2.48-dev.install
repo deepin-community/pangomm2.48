@@ -1,0 +1,4 @@
+usr/include
+usr/lib/*/pangomm-2.48
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig

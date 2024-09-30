@@ -1,0 +1,3 @@
+Tests: build
+Restrictions: superficial
+Depends: g++, libpangomm-2.48-dev

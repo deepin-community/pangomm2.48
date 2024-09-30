@@ -1,0 +1,878 @@
+libpangomm-2.48.so.1 libpangomm-2.48-1 #MINVER#
+* Build-Depends-Package: libpangomm-2.48-dev
+ (c++|arch=armel riscv64)"typeinfo for __gnu_cxx::__mutex@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo for std::_Mutex_base<(__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo for std::_Mutex_base<(__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo for std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo for std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for __gnu_cxx::__mutex@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Mutex_base<(__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Mutex_base<(__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::CairoFontMap*, void (*)(Pango::CairoFontMap*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::CairoFontMap*, void (*)(Pango::CairoFontMap*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Context*, void (*)(Pango::Context*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Context*, void (*)(Pango::Context*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Coverage*, void (*)(Pango::Coverage*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Coverage*, void (*)(Pango::Coverage*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontFace*, void (*)(Pango::FontFace*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontFace*, void (*)(Pango::FontFace*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontFamily*, void (*)(Pango::FontFamily*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontFamily*, void (*)(Pango::FontFamily*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontMap*, void (*)(Pango::FontMap*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::FontMap*, void (*)(Pango::FontMap*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Fontset*, void (*)(Pango::Fontset*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Fontset*, void (*)(Pango::Fontset*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Font*, void (*)(Pango::Font*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Font*, void (*)(Pango::Font*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::LayoutLine*, void (*)(Pango::LayoutLine*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::LayoutLine*, void (*)(Pango::LayoutLine*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Layout*, void (*)(Pango::Layout*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Layout*, void (*)(Pango::Layout*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Renderer*, void (*)(Pango::Renderer*), std::allocator<void>, (__gnu_cxx::_Lock_policy)1>@Base" 2.50
+ (c++|arch=!armel !riscv64)"typeinfo name for std::_Sp_counted_deleter<Pango::Renderer*, void (*)(Pango::Renderer*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::CairoFontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::CairoFontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Context*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Context*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Coverage*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Coverage*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Font*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Font*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::FontFace*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::FontFace*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::FontFamily*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::FontFamily*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::FontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::FontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Fontset*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Fontset*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Layout*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Layout*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::LayoutLine*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::LayoutLine*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (*)(Pango::Renderer*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo for void (Pango::Renderer*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::CairoFontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Context*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Coverage*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Font*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::FontFace*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::FontFamily*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::FontMap*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Fontset*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Layout*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::LayoutLine*)@Base" 2.50
+ (c++|arch=armel armhf)"typeinfo name for void (Pango::Renderer*)@Base" 2.50
+ (c++)"Glib::Value<Pango::Alignment, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::AttrType, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::BaselineShift_Wrapper::BaselineShift, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Coverage::Level, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Direction, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::EllipsizeMode, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::FontMask, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::FontScale, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::GravityHint, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Gravity, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Overline, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Renderer::Part, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Script, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::ShapeFlags, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::ShowFlags, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Stretch, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Style, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::TabAlign, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::TextTransform, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Underline, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Variant, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::Weight_Wrapper::Weight, void>::value_type()@Base" 2.50
+ (c++)"Glib::Value<Pango::WrapMode, void>::value_type()@Base" 2.50
+ (c++)"Glib::wrap(_PangoAnalysis*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAnalysis const*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrColor*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrFloat*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrFontDesc*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttribute*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrInt*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrIterator*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrLanguage*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrList*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrShape*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoAttrString*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoCairoFontMap*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoColor*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoColor const*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoContext*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoCoverage*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFont*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontDescription*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontFace*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontFamily*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontMap*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontMetrics*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoFontset*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphGeometry*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphGeometry const*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphInfo*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphInfo const*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphItem*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoGlyphString*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoItem*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoLanguage*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoLayout*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoLayoutIter*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoLayoutLine*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoRectangle*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoRectangle const*)@Base" 2.50
+ (c++)"Glib::wrap(_PangoRenderer*, bool)@Base" 2.50
+ (c++)"Glib::wrap(_PangoTabArray*, bool)@Base" 2.50
+ (c++)"non-virtual thunk to Pango::CairoFontMapImpl::~CairoFontMapImpl()@Base" 2.50
+ (c++)"non-virtual thunk to Pango::FontFamily::~FontFamily()@Base" 2.50
+ (c++)"non-virtual thunk to Pango::FontMap::~FontMap()@Base" 2.50
+ (c++)"Pango::Analysis::Analysis()@Base" 2.50
+ (c++)"Pango::Analysis::Analysis(_PangoAnalysis const*)@Base" 2.50
+ (c++)"Pango::Analysis::get_extra_attrs() const@Base" 2.50
+ (c++)"Pango::Analysis::get_font()@Base" 2.50
+ (c++)"Pango::Analysis::get_font() const@Base" 2.50
+ (c++)"Pango::Analysis::get_language() const@Base" 2.50
+ (c++)"Pango::Analysis::get_level() const@Base" 2.50
+ (c++)"Pango::AttrColor::AttrColor()@Base" 2.50
+ (c++)"Pango::AttrColor::AttrColor(_PangoAttrColor*, bool)@Base" 2.50
+ (c++)"Pango::AttrColor::AttrColor(Pango::AttrColor const&)@Base" 2.50
+ (c++)"Pango::AttrColor::get_color() const@Base" 2.50
+ (c++)"Pango::AttrColor::operator=(Pango::AttrColor const&)@Base" 2.50
+ (c++)"Pango::AttrColor::set_color(Pango::Color const&)@Base" 2.50
+ (c++)"Pango::AttrFloat::AttrFloat()@Base" 2.50
+ (c++)"Pango::AttrFloat::AttrFloat(_PangoAttrFloat*, bool)@Base" 2.50
+ (c++)"Pango::AttrFloat::AttrFloat(Pango::AttrFloat const&)@Base" 2.50
+ (c++)"Pango::AttrFloat::get_value() const@Base" 2.50
+ (c++)"Pango::AttrFloat::operator=(Pango::AttrFloat const&)@Base" 2.50
+ (c++)"Pango::AttrFloat::set_value(double const&)@Base" 2.50
+ (c++)"Pango::AttrFontDesc::AttrFontDesc()@Base" 2.50
+ (c++)"Pango::AttrFontDesc::AttrFontDesc(_PangoAttrFontDesc*, bool)@Base" 2.50
+ (c++)"Pango::AttrFontDesc::AttrFontDesc(Pango::AttrFontDesc const&)@Base" 2.50
+ (c++)"Pango::AttrFontDesc::get_desc() const@Base" 2.50
+ (c++)"Pango::AttrFontDesc::operator=(Pango::AttrFontDesc const&)@Base" 2.50
+ (c++)"Pango::AttrFontDesc::set_desc(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::Attribute::~Attribute()@Base" 2.50
+ (c++)"Pango::Attribute::Attribute()@Base" 2.50
+ (c++)"Pango::Attribute::Attribute(_PangoAttribute*, bool)@Base" 2.50
+ (c++)"Pango::Attribute::Attribute(Pango::Attribute const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_allow_breaks(bool)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_background_alpha(unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_background(unsigned short, unsigned short, unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_baseline_shift(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_fallback(bool)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_family(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_font_desc(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_font_features(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_font_scale(Pango::FontScale)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_foreground_alpha(unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_foreground(unsigned short, unsigned short, unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_gravity_hint(Pango::GravityHint)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_gravity(Pango::Gravity)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_insert_hyphens(bool)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_language(Pango::Language const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_letter_spacing(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_line_height_absolute(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_line_height(double)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_overline_color(unsigned short, unsigned short, unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_overline(Pango::Overline)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_rise(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_scale(double)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_sentence()@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_shape(Pango::Rectangle const&, Pango::Rectangle const&)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_show(Pango::ShowFlags)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_size_absolute(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_size(int)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_stretch(Pango::Stretch)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_strikethrough(bool)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_strikethrough_color(unsigned short, unsigned short, unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_style(Pango::Style)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_text_transform(Pango::TextTransform)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_underline_color(unsigned short, unsigned short, unsigned short)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_underline(Pango::Underline)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_variant(Pango::Variant)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_weight(Pango::Weight_Wrapper::Weight)@Base" 2.50
+ (c++)"Pango::Attribute::create_attr_word()@Base" 2.50
+ (c++)"Pango::Attribute::equal(Pango::Attribute const&) const@Base" 2.50
+ (c++)"Pango::Attribute::get_end_index() const@Base" 2.50
+ (c++)"Pango::Attribute::get_start_index() const@Base" 2.50
+ (c++)"Pango::Attribute::get_type() const@Base" 2.50
+ (c++)"Pango::Attribute::get_type_name(Pango::AttrType)@Base" 2.50
+ (c++)"Pango::Attribute::operator=(Pango::Attribute const&)@Base" 2.50
+ (c++)"Pango::Attribute::register_type(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Attribute::set_end_index(unsigned int const&)@Base" 2.50
+ (c++)"Pango::Attribute::set_start_index(unsigned int const&)@Base" 2.50
+ (c++)"Pango::AttrInt::AttrInt()@Base" 2.50
+ (c++)"Pango::AttrInt::AttrInt(_PangoAttrInt*, bool)@Base" 2.50
+ (c++)"Pango::AttrInt::AttrInt(Pango::AttrInt const&)@Base" 2.50
+ (c++)"Pango::AttrInt::get_value() const@Base" 2.50
+ (c++)"Pango::AttrInt::operator=(Pango::AttrInt const&)@Base" 2.50
+ (c++)"Pango::AttrInt::set_value(int const&)@Base" 2.50
+ (c++)"Pango::AttrIter::~AttrIter()@Base" 2.50
+ (c++)"Pango::AttrIter::AttrIter()@Base" 2.50
+ (c++)"Pango::AttrIter::AttrIter(_PangoAttrIterator*, bool)@Base" 2.50
+ (c++)"Pango::AttrIter::AttrIter(Pango::AttrIter const&)@Base" 2.50
+ (c++)"Pango::AttrIter::get_attribute(Pango::AttrType) const@Base" 2.50
+ (c++)"Pango::AttrIter::get_attrs() const@Base" 2.50
+ (c++)"Pango::AttrIter::get_extra_attrs() const@Base" 2.50
+ (c++)"Pango::AttrIter::get_font_desc() const@Base" 2.50
+ (c++)"Pango::AttrIter::get_language() const@Base" 2.50
+ (c++)"Pango::AttrIter::get_range(int&, int&) const@Base" 2.50
+ (c++)"Pango::AttrIter::next()@Base" 2.50
+ (c++)"Pango::AttrIter::operator++()@Base" 2.50
+ (c++)"Pango::AttrIter::operator bool() const@Base" 2.50
+ (c++)"Pango::AttrIter::operator++(int)@Base" 2.50
+ (c++)"Pango::AttrIter::operator=(Pango::AttrIter const&)@Base" 2.50
+ (c++)"Pango::AttrLanguage::AttrLanguage()@Base" 2.50
+ (c++)"Pango::AttrLanguage::AttrLanguage(_PangoAttrLanguage*, bool)@Base" 2.50
+ (c++)"Pango::AttrLanguage::AttrLanguage(Pango::AttrLanguage const&)@Base" 2.50
+ (c++)"Pango::AttrLanguage::get_language() const@Base" 2.50
+ (c++)"Pango::AttrLanguage::operator=(Pango::AttrLanguage const&)@Base" 2.50
+ (c++)"Pango::AttrLanguage::set_language(Pango::Language const&)@Base" 2.50
+ (c++)"Pango::AttrList::~AttrList()@Base" 2.50
+ (c++)"Pango::AttrList::AttrList()@Base" 2.50
+ (c++)"Pango::AttrList::AttrList(Glib::ustring const&, unsigned int)@Base" 2.50
+ (c++)"Pango::AttrList::AttrList(Glib::ustring const&, unsigned int, Glib::ustring&, unsigned int&)@Base" 2.50
+ (c++)"Pango::AttrList::AttrList(Pango::AttrList&&)@Base" 2.50
+ (c++)"Pango::AttrList::AttrList(_PangoAttrList*, bool)@Base" 2.50
+ (c++)"Pango::AttrList::AttrList(Pango::AttrList const&)@Base" 2.50
+ (c++)"Pango::AttrList::change(Pango::Attribute&)@Base" 2.50
+ (c++)"Pango::AttrList::equal(Pango::AttrList const&) const@Base" 2.50
+ (c++)"Pango::AttrList::from_string(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::AttrList::get_attributes() const@Base" 2.50
+ (c++)"Pango::AttrList::get_iter()@Base" 2.50
+ (c++)"Pango::AttrList::get_type()@Base" 2.50
+ (c++)"Pango::AttrList::gobj_copy() const@Base" 2.50
+ (c++)"Pango::AttrList::insert_before(Pango::Attribute&)@Base" 2.50
+ (c++)"Pango::AttrList::insert(Pango::Attribute&)@Base" 2.50
+ (c++)"Pango::AttrList::operator bool() const@Base" 2.50
+ (c++)"Pango::AttrList::operator=(Pango::AttrList&&)@Base" 2.50
+ (c++)"Pango::AttrList::operator=(Pango::AttrList const&)@Base" 2.50
+ (c++)"Pango::AttrList::splice(Pango::AttrList&, int, int)@Base" 2.50
+ (c++)"Pango::AttrList::swap(Pango::AttrList&)@Base" 2.50
+ (c++)"Pango::AttrList::to_string() const@Base" 2.50
+ (c++)"Pango::AttrList::update(int, int, int)@Base" 2.50
+ (c++)"Pango::AttrShape::AttrShape()@Base" 2.50
+ (c++)"Pango::AttrShape::AttrShape(_PangoAttrShape*, bool)@Base" 2.50
+ (c++)"Pango::AttrShape::AttrShape(Pango::AttrShape const&)@Base" 2.50
+ (c++)"Pango::AttrShape::get_ink_rect() const@Base" 2.50
+ (c++)"Pango::AttrShape::get_logical_rect() const@Base" 2.50
+ (c++)"Pango::AttrShape::operator=(Pango::AttrShape const&)@Base" 2.50
+ (c++)"Pango::AttrShape::set_ink_rect(Pango::Rectangle const&)@Base" 2.50
+ (c++)"Pango::AttrShape::set_logical_rect(Pango::Rectangle const&)@Base" 2.50
+ (c++)"Pango::AttrString::AttrString()@Base" 2.50
+ (c++)"Pango::AttrString::AttrString(_PangoAttrString*, bool)@Base" 2.50
+ (c++)"Pango::AttrString::AttrString(Pango::AttrString const&)@Base" 2.50
+ (c++)"Pango::AttrString::get_string() const@Base" 2.50
+ (c++)"Pango::AttrString::operator=(Pango::AttrString const&)@Base" 2.50
+ (c++)"Pango::AttrString::set_string(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::CairoFontMap::add_interface(unsigned long)@Base" 2.50
+ (c++)"Pango::CairoFontMap::~CairoFontMap()@Base" 2.50
+ (c++)"Pango::CairoFontMap::CairoFontMap()@Base" 2.50
+ (c++)"Pango::CairoFontMap::cairofontmap_class_@Base" 2.50
+ (c++)"Pango::CairoFontMap::CairoFontMap(Glib::Interface_Class const&)@Base" 2.50
+ (c++)"Pango::CairoFontMap::CairoFontMap(_PangoCairoFontMap*)@Base" 2.50
+ (c++)"Pango::CairoFontMap::CairoFontMap(Pango::CairoFontMap&&)@Base" 2.50
+ (c++)"Pango::CairoFontMap_Class::iface_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::CairoFontMap_Class::init()@Base" 2.50
+ (c++)"Pango::CairoFontMap_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::CairoFontMap::get_base_type()@Base" 2.50
+ (c++)"Pango::CairoFontMap::get_default()@Base" 2.50
+ (c++)"Pango::CairoFontMap::get_font_type() const@Base" 2.50
+ (c++)"Pango::CairoFontMap::get_resolution() const@Base" 2.50
+ (c++)"Pango::CairoFontMap::get_type()@Base" 2.50
+ (c++)"Pango::CairoFontMapImpl::~CairoFontMapImpl()@Base" 2.50
+ (c++)"Pango::CairoFontMapImpl::CairoFontMapImpl(Pango::CairoFontMapImpl&&)@Base" 2.50
+ (c++)"Pango::CairoFontMapImpl::CairoFontMapImpl(_PangoFontMap*)@Base" 2.50
+ (c++)"Pango::CairoFontMapImpl::operator=(Pango::CairoFontMapImpl&&)@Base" 2.50
+ (c++)"Pango::CairoFontMap::operator=(Pango::CairoFontMap&&)@Base" 2.50
+ (c++)"Pango::CairoFontMap::set_default()@Base" 2.50
+ (c++)"Pango::CairoFontMap::set_resolution(double)@Base" 2.50
+ (c++)"Pango::Color::Color()@Base" 2.50
+ (c++)"Pango::Color::Color(Pango::Color&&)@Base" 2.50
+ (c++)"Pango::Color::Color(_PangoColor const*)@Base" 2.50
+ (c++)"Pango::Color::Color(Pango::Color const&)@Base" 2.50
+ (c++)"Pango::Color::get_blue() const@Base" 2.50
+ (c++)"Pango::Color::get_green() const@Base" 2.50
+ (c++)"Pango::Color::get_red() const@Base" 2.50
+ (c++)"Pango::Color::get_type()@Base" 2.50
+ (c++)"Pango::Color::operator bool() const@Base" 2.50
+ (c++)"Pango::Color::operator=(Pango::Color&&)@Base" 2.50
+ (c++)"Pango::Color::operator=(Pango::Color const&)@Base" 2.50
+ (c++)"Pango::Color::parse(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Color::set_blue(unsigned short const&)@Base" 2.50
+ (c++)"Pango::Color::set_green(unsigned short const&)@Base" 2.50
+ (c++)"Pango::Color::set_red(unsigned short const&)@Base" 2.50
+ (c++)"Pango::Color::to_string() const@Base" 2.50
+ (c++)"Pango::Context_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::Context_Class::init()@Base" 2.50
+ (c++)"Pango::Context_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::Context::~Context()@Base" 2.50
+ (c++)"Pango::Context::Context()@Base" 2.50
+ (c++)"Pango::Context::context_class_@Base" 2.50
+ (c++)"Pango::Context::Context(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::Context::Context(_PangoContext*)@Base" 2.50
+ (c++)"Pango::Context::Context(Pango::Context&&)@Base" 2.50
+ (c++)"Pango::Context::get_base_dir() const@Base" 2.50
+ (c++)"Pango::Context::get_base_gravity() const@Base" 2.50
+ (c++)"Pango::Context::get_base_type()@Base" 2.50
+ (c++)"Pango::Context::get_font_description() const@Base" 2.50
+ (c++)"Pango::Context::get_font_map()@Base" 2.50
+ (c++)"Pango::Context::get_font_map() const@Base" 2.50
+ (c++)"Pango::Context::get_font_options() const@Base" 2.50
+ (c++)"Pango::Context::get_gravity() const@Base" 2.50
+ (c++)"Pango::Context::get_gravity_hint() const@Base" 2.50
+ (c++)"Pango::Context::get_language() const@Base" 2.50
+ (c++)"Pango::Context::get_matrix() const@Base" 2.50
+ (c++)"Pango::Context::get_metrics(Pango::FontDescription const&) const@Base" 2.50
+ (c++)"Pango::Context::get_metrics(Pango::FontDescription const&, Pango::Language const&) const@Base" 2.50
+ (c++)"Pango::Context::get_resolution() const@Base" 2.50
+ (c++)"Pango::Context::get_serial() const@Base" 2.50
+ (c++)"Pango::Context::get_type()@Base" 2.50
+ (c++)"Pango::Context::gobj_copy()@Base" 2.50
+ (c++)"Pango::Context::itemize(Glib::ustring const&, int, int, Pango::AttrList const&, Pango::AttrIter&) const@Base" 2.50
+ (c++)"Pango::Context::itemize(Glib::ustring const&, Pango::AttrList const&) const@Base" 2.50
+ (c++)"Pango::Context::list_families() const@Base" 2.50
+ (c++)"Pango::Context::load_font(Pango::FontDescription const&) const@Base" 2.50
+ (c++)"Pango::Context::load_fontset(Pango::FontDescription const&, Pango::Language const&) const@Base" 2.50
+ (c++)"Pango::Context::operator=(Pango::Context&&)@Base" 2.50
+ (c++)"Pango::Context::set_base_dir(Pango::Direction)@Base" 2.50
+ (c++)"Pango::Context::set_base_gravity(Pango::Gravity)@Base" 2.50
+ (c++)"Pango::Context::set_cairo_font_options(Cairo::FontOptions const&)@Base" 2.50
+ (c++)"Pango::Context::set_font_description(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::Context::set_font_map(std::shared_ptr<Pango::FontMap> const&)@Base" 2.50
+ (c++)"Pango::Context::set_gravity_hint(Pango::GravityHint)@Base" 2.50
+ (c++)"Pango::Context::set_language(Pango::Language const&)@Base" 2.50
+ (c++)"Pango::Context::set_matrix(_PangoMatrix const&)@Base" 2.50
+ (c++)"Pango::Context::set_resolution(double)@Base" 2.50
+ (c++)"Pango::Context::update_from_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::Coverage::create()@Base" 2.50
+ (c++)"Pango::Coverage::get(int) const@Base" 2.50
+ (c++)"Pango::Coverage::gobj()@Base" 2.50
+ (c++)"Pango::Coverage::gobj() const@Base" 2.50
+ (c++)"Pango::Coverage::gobj_copy() const@Base" 2.50
+ (c++)"Pango::Coverage::reference() const@Base" 2.50
+ (c++)"Pango::Coverage::set(int, Pango::Coverage::Level)@Base" 2.50
+ (c++)"Pango::Coverage::unreference() const@Base" 2.50
+ (c++)"Pango::Font_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::Font_Class::init()@Base" 2.50
+ (c++)"Pango::Font_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::Font::describe() const@Base" 2.50
+ (c++)"Pango::Font::describe_with_absolute_size() const@Base" 2.50
+ (c++)"Pango::FontDescription::better_match(Pango::FontDescription const&, Pango::FontDescription const&) const@Base" 2.50
+ (c++)"Pango::FontDescription::~FontDescription()@Base" 2.50
+ (c++)"Pango::FontDescription::FontDescription()@Base" 2.50
+ (c++)"Pango::FontDescription::FontDescription(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::FontDescription::FontDescription(Pango::FontDescription&&)@Base" 2.50
+ (c++)"Pango::FontDescription::FontDescription(_PangoFontDescription*, bool)@Base" 2.50
+ (c++)"Pango::FontDescription::FontDescription(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::FontDescription::get_family() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_gravity() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_set_fields() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_size() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_size_is_absolute() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_stretch() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_style() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_type()@Base" 2.50
+ (c++)"Pango::FontDescription::get_variant() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_variations() const@Base" 2.50
+ (c++)"Pango::FontDescription::get_weight() const@Base" 2.50
+ (c++)"Pango::FontDescription::gobj_copy() const@Base" 2.50
+ (c++)"Pango::FontDescription::hash() const@Base" 2.50
+ (c++)"Pango::FontDescription::merge(Pango::FontDescription const&, bool)@Base" 2.50
+ (c++)"Pango::FontDescription::operator=(Pango::FontDescription&&)@Base" 2.50
+ (c++)"Pango::FontDescription::operator=(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::FontDescription::set_absolute_size(double)@Base" 2.50
+ (c++)"Pango::FontDescription::set_family(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::FontDescription::set_gravity(Pango::Gravity)@Base" 2.50
+ (c++)"Pango::FontDescription::set_size(int)@Base" 2.50
+ (c++)"Pango::FontDescription::set_stretch(Pango::Stretch)@Base" 2.50
+ (c++)"Pango::FontDescription::set_style(Pango::Style)@Base" 2.50
+ (c++)"Pango::FontDescription::set_variant(Pango::Variant)@Base" 2.50
+ (c++)"Pango::FontDescription::set_variations(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::FontDescription::set_weight(Pango::Weight_Wrapper::Weight)@Base" 2.50
+ (c++)"Pango::FontDescription::swap(Pango::FontDescription&)@Base" 2.50
+ (c++)"Pango::FontDescription::to_filename() const@Base" 2.50
+ (c++)"Pango::FontDescription::to_string() const@Base" 2.50
+ (c++)"Pango::FontDescription::unset_fields(Pango::FontMask)@Base" 2.50
+ (c++)"Pango::FontFace_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::FontFace_Class::init()@Base" 2.50
+ (c++)"Pango::FontFace_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::FontFace::describe() const@Base" 2.50
+ (c++)"Pango::FontFace::~FontFace()@Base" 2.50
+ (c++)"Pango::FontFace::fontface_class_@Base" 2.50
+ (c++)"Pango::FontFace::FontFace(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::FontFace::FontFace(_PangoFontFace*)@Base" 2.50
+ (c++)"Pango::FontFace::FontFace(Pango::FontFace&&)@Base" 2.50
+ (c++)"Pango::FontFace::get_base_type()@Base" 2.50
+ (c++)"Pango::FontFace::get_family()@Base" 2.50
+ (c++)"Pango::FontFace::get_family() const@Base" 2.50
+ (c++)"Pango::FontFace::get_name() const@Base" 2.50
+ (c++)"Pango::FontFace::get_type()@Base" 2.50
+ (c++)"Pango::FontFace::gobj_copy()@Base" 2.50
+ (c++)"Pango::FontFace::is_synthesized() const@Base" 2.50
+ (c++)"Pango::FontFace::list_sizes() const@Base" 2.50
+ (c++)"Pango::FontFace::operator=(Pango::FontFace&&)@Base" 2.50
+ (c++)"Pango::FontFamily_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::FontFamily_Class::init()@Base" 2.50
+ (c++)"Pango::FontFamily_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::FontFamily::~FontFamily()@Base" 2.50
+ (c++)"Pango::FontFamily::fontfamily_class_@Base" 2.50
+ (c++)"Pango::FontFamily::FontFamily(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::FontFamily::FontFamily(_PangoFontFamily*)@Base" 2.50
+ (c++)"Pango::FontFamily::FontFamily(Pango::FontFamily&&)@Base" 2.50
+ (c++)"Pango::FontFamily::get_base_type()@Base" 2.50
+ (c++)"Pango::FontFamily::get_face(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::FontFamily::get_face(Glib::ustring const&) const@Base" 2.50
+ (c++)"Pango::FontFamily::get_name() const@Base" 2.50
+ (c++)"Pango::FontFamily::get_type()@Base" 2.50
+ (c++)"Pango::FontFamily::gobj_copy()@Base" 2.50
+ (c++)"Pango::FontFamily::is_monospace() const@Base" 2.50
+ (c++)"Pango::FontFamily::is_variable() const@Base" 2.50
+ (c++)"Pango::FontFamily::list_faces() const@Base" 2.50
+ (c++)"Pango::FontFamily::operator=(Pango::FontFamily&&)@Base" 2.50
+ (c++)"Pango::Font::~Font()@Base" 2.50
+ (c++)"Pango::Font::font_class_@Base" 2.50
+ (c++)"Pango::Font::Font(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::Font::Font(_PangoFont*)@Base" 2.50
+ (c++)"Pango::Font::Font(Pango::Font&&)@Base" 2.50
+ (c++)"Pango::Font::get_base_type()@Base" 2.50
+ (c++)"Pango::Font::get_coverage(Pango::Language const&) const@Base" 2.50
+ (c++)"Pango::Font::get_face()@Base" 2.50
+ (c++)"Pango::Font::get_face() const@Base" 2.50
+ (c++)"Pango::Font::get_font_map()@Base" 2.50
+ (c++)"Pango::Font::get_font_map() const@Base" 2.50
+ (c++)"Pango::Font::get_glyph_extents(unsigned int, Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::Font::get_glyph_ink_extents(unsigned int) const@Base" 2.50
+ (c++)"Pango::Font::get_glyph_logical_extents(unsigned int) const@Base" 2.50
+ (c++)"Pango::Font::get_metrics() const@Base" 2.50
+ (c++)"Pango::Font::get_metrics(Pango::Language const&) const@Base" 2.50
+ (c++)"Pango::Font::get_type()@Base" 2.50
+ (c++)"Pango::Font::gobj_copy()@Base" 2.50
+ (c++)"Pango::Font::has_char(unsigned int) const@Base" 2.50
+ (c++)"Pango::FontMap_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::FontMap_Class::init()@Base" 2.50
+ (c++)"Pango::FontMap_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::FontMap::create_context()@Base" 2.50
+ (c++)"Pango::FontMap::~FontMap()@Base" 2.50
+ (c++)"Pango::FontMap::fontmap_class_@Base" 2.50
+ (c++)"Pango::FontMap::FontMap(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::FontMap::FontMap(_PangoFontMap*)@Base" 2.50
+ (c++)"Pango::FontMap::FontMap(Pango::FontMap&&)@Base" 2.50
+ (c++)"Pango::FontMap::get_base_type()@Base" 2.50
+ (c++)"Pango::FontMap::get_family(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::FontMap::get_family(Glib::ustring const&) const@Base" 2.50
+ (c++)"Pango::FontMap::get_serial() const@Base" 2.50
+ (c++)"Pango::FontMap::get_type()@Base" 2.50
+ (c++)"Pango::FontMap::gobj_copy()@Base" 2.50
+ (c++)"Pango::FontMap::list_families() const@Base" 2.50
+ (c++)"Pango::FontMap::load_fontset(std::shared_ptr<Pango::Context> const&, Pango::FontDescription const&, Pango::Language const&) const@Base" 2.50
+ (c++)"Pango::FontMap::load_font(std::shared_ptr<Pango::Context> const&, Pango::FontDescription const&) const@Base" 2.50
+ (c++)"Pango::FontMap::operator=(Pango::FontMap&&)@Base" 2.50
+ (c++)"Pango::FontMetrics::~FontMetrics()@Base" 2.50
+ (c++)"Pango::FontMetrics::FontMetrics()@Base" 2.50
+ (c++)"Pango::FontMetrics::FontMetrics(Pango::FontMetrics&&)@Base" 2.50
+ (c++)"Pango::FontMetrics::FontMetrics(_PangoFontMetrics*, bool)@Base" 2.50
+ (c++)"Pango::FontMetrics::FontMetrics(Pango::FontMetrics const&)@Base" 2.50
+ (c++)"Pango::FontMetrics::get_approximate_char_width() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_approximate_digit_width() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_ascent() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_descent() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_height() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_strikethrough_position() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_strikethrough_thickness() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_type()@Base" 2.50
+ (c++)"Pango::FontMetrics::get_underline_position() const@Base" 2.50
+ (c++)"Pango::FontMetrics::get_underline_thickness() const@Base" 2.50
+ (c++)"Pango::FontMetrics::gobj_copy() const@Base" 2.50
+ (c++)"Pango::FontMetrics::operator=(Pango::FontMetrics&&)@Base" 2.50
+ (c++)"Pango::FontMetrics::operator=(Pango::FontMetrics const&)@Base" 2.50
+ (c++)"Pango::FontMetrics::swap(Pango::FontMetrics&)@Base" 2.50
+ (c++)"Pango::Font::operator=(Pango::Font&&)@Base" 2.50
+ (c++)"Pango::Fontset_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::Fontset_Class::init()@Base" 2.50
+ (c++)"Pango::Fontset_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::Fontset::~Fontset()@Base" 2.50
+ (c++)"Pango::Fontset::fontset_class_@Base" 2.50
+ (c++)"Pango::Fontset::Fontset(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::Fontset::Fontset(_PangoFontset*)@Base" 2.50
+ (c++)"Pango::Fontset::Fontset(Pango::Fontset&&)@Base" 2.50
+ (c++)"Pango::Fontset::foreach(sigc::slot<bool (std::shared_ptr<Pango::Font> const&)> const&)@Base" 2.50
+ (c++)"Pango::Fontset::get_base_type()@Base" 2.50
+ (c++)"Pango::Fontset::get_font(unsigned int) const@Base" 2.50
+ (c++)"Pango::Fontset::get_metrics() const@Base" 2.50
+ (c++)"Pango::Fontset::get_type()@Base" 2.50
+ (c++)"Pango::Fontset::gobj_copy()@Base" 2.50
+ (c++)"Pango::Fontset::operator=(Pango::Fontset&&)@Base" 2.50
+ (c++)"Pango::GlyphGeometry::get_width() const@Base" 2.50
+ (c++)"Pango::GlyphGeometry::get_x_offset() const@Base" 2.50
+ (c++)"Pango::GlyphGeometry::get_y_offset() const@Base" 2.50
+ (c++)"Pango::GlyphGeometry::GlyphGeometry()@Base" 2.50
+ (c++)"Pango::GlyphGeometry::GlyphGeometry(_PangoGlyphGeometry const*)@Base" 2.50
+ (c++)"Pango::GlyphInfo::get_attr() const@Base" 2.50
+ (c++)"Pango::GlyphInfo::get_geometry() const@Base" 2.50
+ (c++)"Pango::GlyphInfo::get_glyph() const@Base" 2.50
+ (c++)"Pango::GlyphInfo::GlyphInfo()@Base" 2.50
+ (c++)"Pango::GlyphItem::get_glyphs() const@Base" 2.50
+ (c++)"Pango::GlyphItem::get_item() const@Base" 2.50
+ (c++)"Pango::GlyphItem::get_type()@Base" 2.50
+ (c++)"Pango::GlyphItem::~GlyphItem()@Base" 2.50
+ (c++)"Pango::GlyphItem::GlyphItem()@Base" 2.50
+ (c++)"Pango::GlyphItem::GlyphItem(Pango::GlyphItem&&)@Base" 2.50
+ (c++)"Pango::GlyphItem::GlyphItem(_PangoGlyphItem*, bool)@Base" 2.50
+ (c++)"Pango::GlyphItem::GlyphItem(Pango::GlyphItem const&)@Base" 2.50
+ (c++)"Pango::GlyphItem::gobj_copy() const@Base" 2.50
+ (c++)"Pango::GlyphItem::letter_space(Glib::ustring const&, _PangoLogAttr const&, int)@Base" 2.50
+ (c++)"Pango::GlyphItem::operator=(Pango::GlyphItem&&)@Base" 2.50
+ (c++)"Pango::GlyphItem::operator=(Pango::GlyphItem const&)@Base" 2.50
+ (c++)"Pango::GlyphItem::split(Glib::ustring const&, int)@Base" 2.50
+ (c++)"Pango::GlyphItem::swap(Pango::GlyphItem&)@Base" 2.50
+ (c++)"Pango::GlyphString::get_extents(int, int, std::shared_ptr<Pango::Font const> const&, Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_extents(std::shared_ptr<Pango::Font const> const&, Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_glyphs() const@Base" 2.50
+ (c++)"Pango::GlyphString::get_ink_extents(int, int, std::shared_ptr<Pango::Font const> const&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_ink_extents(std::shared_ptr<Pango::Font const> const&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_logical_extents(int, int, std::shared_ptr<Pango::Font const> const&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_logical_extents(std::shared_ptr<Pango::Font const> const&) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_logical_widths(Glib::ustring const&, int) const@Base" 2.50
+ (c++)"Pango::GlyphString::get_type()@Base" 2.50
+ (c++)"Pango::GlyphString::get_width() const@Base" 2.50
+ (c++)"Pango::GlyphString::~GlyphString()@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString()@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString(Glib::ustring const&, Glib::ustring const&, Pango::Analysis const&, Pango::ShapeFlags)@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString(Glib::ustring const&, Pango::Analysis const&)@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString(Pango::GlyphString&&)@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString(_PangoGlyphString*, bool)@Base" 2.50
+ (c++)"Pango::GlyphString::GlyphString(Pango::GlyphString const&)@Base" 2.50
+ (c++)"Pango::GlyphString::gobj_copy() const@Base" 2.50
+ (c++)"Pango::GlyphString::index_to_x(Glib::ustring const&, Pango::Analysis const&, int, bool) const@Base" 2.50
+ (c++)"Pango::GlyphString::operator=(Pango::GlyphString&&)@Base" 2.50
+ (c++)"Pango::GlyphString::operator=(Pango::GlyphString const&)@Base" 2.50
+ (c++)"Pango::GlyphString::set_size(int)@Base" 2.50
+ (c++)"Pango::GlyphString::swap(Pango::GlyphString&)@Base" 2.50
+ (c++)"Pango::GlyphString::x_to_index(Glib::ustring const&, Pango::Analysis const&, int, int&, bool&) const@Base" 2.50
+ (c++)"Pango::init()@Base" 2.50
+ (c++)"Pango::Item::get_analysis() const@Base" 2.50
+ (c++)"Pango::Item::get_length() const@Base" 2.50
+ (c++)"Pango::Item::get_num_chars() const@Base" 2.50
+ (c++)"Pango::Item::get_offset() const@Base" 2.50
+ (c++)"Pango::Item::get_segment(Glib::ustring const&) const@Base" 2.50
+ (c++)"Pango::Item::gobj_copy() const@Base" 2.50
+ (c++)"Pango::Item::~Item()@Base" 2.50
+ (c++)"Pango::Item::Item(_PangoItem*, bool)@Base" 2.50
+ (c++)"Pango::Item::Item(Pango::Item const&)@Base" 2.50
+ (c++)"Pango::Item::operator=(Pango::Item const&)@Base" 2.50
+ (c++)"Pango::Item::shape(Glib::ustring const&) const@Base" 2.50
+ (c++)"Pango::Item::shape(Glib::ustring const&, Glib::ustring const&, Pango::ShapeFlags) const@Base" 2.50
+ (c++)"Pango::Item::split(int, int)@Base" 2.50
+ (c++)"Pango::Language::get_scripts() const@Base" 2.50
+ (c++)"Pango::Language::get_string() const@Base" 2.50
+ (c++)"Pango::Language::get_type()@Base" 2.50
+ (c++)"Pango::Language::gobj_copy() const@Base" 2.50
+ (c++)"Pango::Language::includes_script(Pango::Script) const@Base" 2.50
+ (c++)"Pango::Language::~Language()@Base" 2.50
+ (c++)"Pango::Language::Language()@Base" 2.50
+ (c++)"Pango::Language::Language(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Language::Language(Pango::Language&&)@Base" 2.50
+ (c++)"Pango::Language::Language(_PangoLanguage*, bool)@Base" 2.50
+ (c++)"Pango::Language::Language(Pango::Language const&)@Base" 2.50
+ (c++)"Pango::Language::matches(Glib::ustring const&) const@Base" 2.50
+ (c++)"Pango::Language::operator=(Pango::Language&&)@Base" 2.50
+ (c++)"Pango::Language::operator=(Pango::Language const&)@Base" 2.50
+ (c++)"Pango::Language::swap(Pango::Language&)@Base" 2.50
+ (c++)"Pango::Layout::add_to_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::Layout_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::Layout_Class::init()@Base" 2.50
+ (c++)"Pango::Layout_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::Layout::context_changed()@Base" 2.50
+ (c++)"Pango::Layout::copy()@Base" 2.50
+ (c++)"Pango::Layout::create(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::Layout::create(std::shared_ptr<Pango::Context> const&)@Base" 2.50
+ (c++)"Pango::Layout::get_alignment() const@Base" 2.50
+ (c++)"Pango::Layout::get_attributes() const@Base" 2.50
+ (c++)"Pango::Layout::get_auto_dir() const@Base" 2.50
+ (c++)"Pango::Layout::get_baseline() const@Base" 2.50
+ (c++)"Pango::Layout::get_base_type()@Base" 2.50
+ (c++)"Pango::Layout::get_character_count() const@Base" 2.50
+ (c++)"Pango::Layout::get_const_line(int) const@Base" 2.50
+ (c++)"Pango::Layout::get_const_lines() const@Base" 2.50
+ (c++)"Pango::Layout::get_context() const@Base" 2.50
+ (c++)"Pango::Layout::get_cursor_pos(int, Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::Layout::get_cursor_strong_pos(int) const@Base" 2.50
+ (c++)"Pango::Layout::get_cursor_weak_pos(int) const@Base" 2.50
+ (c++)"Pango::Layout::get_ellipsize() const@Base" 2.50
+ (c++)"Pango::Layout::get_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::Layout::get_font_description() const@Base" 2.50
+ (c++)"Pango::Layout::get_height() const@Base" 2.50
+ (c++)"Pango::Layout::get_indent() const@Base" 2.50
+ (c++)"Pango::Layout::get_ink_extents() const@Base" 2.50
+ (c++)"Pango::Layout::get_iter()@Base" 2.50
+ (c++)"Pango::Layout::get_justify() const@Base" 2.50
+ (c++)"Pango::Layout::get_line_count() const@Base" 2.50
+ (c++)"Pango::Layout::get_line(int)@Base" 2.50
+ (c++)"Pango::Layout::get_line(int) const@Base" 2.50
+ (c++)"Pango::Layout::get_lines()@Base" 2.50
+ (c++)"Pango::Layout::get_lines() const@Base" 2.50
+ (c++)"Pango::Layout::get_line_spacing() const@Base" 2.50
+ (c++)"Pango::Layout::get_log_attrs() const@Base" 2.50
+ (c++)"Pango::Layout::get_logical_extents() const@Base" 2.50
+ (c++)"Pango::Layout::get_pixel_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::Layout::get_pixel_ink_extents() const@Base" 2.50
+ (c++)"Pango::Layout::get_pixel_logical_extents() const@Base" 2.50
+ (c++)"Pango::Layout::get_pixel_size(int&, int&) const@Base" 2.50
+ (c++)"Pango::Layout::get_serial() const@Base" 2.50
+ (c++)"Pango::Layout::get_single_paragraph_mode() const@Base" 2.50
+ (c++)"Pango::Layout::get_size(int&, int&) const@Base" 2.50
+ (c++)"Pango::Layout::get_spacing() const@Base" 2.50
+ (c++)"Pango::Layout::get_tabs() const@Base" 2.50
+ (c++)"Pango::Layout::get_text() const@Base" 2.50
+ (c++)"Pango::Layout::get_type()@Base" 2.50
+ (c++)"Pango::Layout::get_unknown_glyphs_count() const@Base" 2.50
+ (c++)"Pango::Layout::get_width() const@Base" 2.50
+ (c++)"Pango::Layout::get_wrap() const@Base" 2.50
+ (c++)"Pango::Layout::gobj_copy()@Base" 2.50
+ (c++)"Pango::Layout::index_to_line_x(int, bool, int&, int&) const@Base" 2.50
+ (c++)"Pango::Layout::index_to_pos(int) const@Base" 2.50
+ (c++)"Pango::Layout::is_ellipsized() const@Base" 2.50
+ (c++)"Pango::Layout::is_wrapped() const@Base" 2.50
+ (c++)"Pango::LayoutIter::at_last_line() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_baseline() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_char_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_cluster_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_cluster_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_cluster_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_const_line() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_index() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_layout()@Base" 2.50
+ (c++)"Pango::LayoutIter::get_layout() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_layout_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_layout_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_layout_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line()@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_line_yrange(int&, int&) const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_run() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_run_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_run_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_run_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutIter::get_type()@Base" 2.50
+ (c++)"Pango::LayoutIter::gobj_copy() const@Base" 2.50
+ (c++)"Pango::LayoutIter::~LayoutIter()@Base" 2.50
+ (c++)"Pango::LayoutIter::LayoutIter()@Base" 2.50
+ (c++)"Pango::LayoutIter::LayoutIter(Pango::LayoutIter&&)@Base" 2.50
+ (c++)"Pango::LayoutIter::LayoutIter(_PangoLayoutIter*, bool)@Base" 2.50
+ (c++)"Pango::LayoutIter::LayoutIter(Pango::LayoutIter const&)@Base" 2.50
+ (c++)"Pango::LayoutIter::next_char()@Base" 2.50
+ (c++)"Pango::LayoutIter::next_cluster()@Base" 2.50
+ (c++)"Pango::LayoutIter::next_line()@Base" 2.50
+ (c++)"Pango::LayoutIter::next_run()@Base" 2.50
+ (c++)"Pango::LayoutIter::operator=(Pango::LayoutIter&&)@Base" 2.50
+ (c++)"Pango::LayoutIter::operator=(Pango::LayoutIter const&)@Base" 2.50
+ (c++)"Pango::LayoutIter::swap(Pango::LayoutIter&)@Base" 2.50
+ (c++)"Pango::Layout::~Layout()@Base" 2.50
+ (c++)"Pango::Layout::layout_class_@Base" 2.50
+ (c++)"Pango::Layout::Layout(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::Layout::Layout(_PangoLayout*)@Base" 2.50
+ (c++)"Pango::Layout::Layout(Pango::Layout&&)@Base" 2.50
+ (c++)"Pango::Layout::Layout(std::shared_ptr<Pango::Context> const&)@Base" 2.50
+ (c++)"Pango::LayoutLine::add_to_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::LayoutLine::get_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_layout()@Base" 2.50
+ (c++)"Pango::LayoutLine::get_layout() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_length() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_pixel_extents(Pango::Rectangle&, Pango::Rectangle&) const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_pixel_ink_extents() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_pixel_logical_extents() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_start_index() const@Base" 2.50
+ (c++)"Pango::LayoutLine::get_x_ranges(int, int) const@Base" 2.50
+ (c++)"Pango::LayoutLine::gobj()@Base" 2.50
+ (c++)"Pango::LayoutLine::gobj() const@Base" 2.50
+ (c++)"Pango::LayoutLine::gobj_copy() const@Base" 2.50
+ (c++)"Pango::LayoutLine::index_to_x(int, bool) const@Base" 2.50
+ (c++)"Pango::LayoutLine::reference() const@Base" 2.50
+ (c++)"Pango::LayoutLine::show_in_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::LayoutLine::unreference() const@Base" 2.50
+ (c++)"Pango::LayoutLine::x_to_index(int, int&, int&) const@Base" 2.50
+ (c++)"Pango::Layout::move_cursor_visually(bool, int, int, int, int&, int&) const@Base" 2.50
+ (c++)"Pango::Layout::operator=(Pango::Layout&&)@Base" 2.50
+ (c++)"Pango::Layout::set_alignment(Pango::Alignment)@Base" 2.50
+ (c++)"Pango::Layout::set_attributes(Pango::AttrList&)@Base" 2.50
+ (c++)"Pango::Layout::set_auto_dir(bool)@Base" 2.50
+ (c++)"Pango::Layout::set_ellipsize(Pango::EllipsizeMode)@Base" 2.50
+ (c++)"Pango::Layout::set_font_description(Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::Layout::set_height(int)@Base" 2.50
+ (c++)"Pango::Layout::set_indent(int)@Base" 2.50
+ (c++)"Pango::Layout::set_justify(bool)@Base" 2.50
+ (c++)"Pango::Layout::set_line_spacing(float)@Base" 2.50
+ (c++)"Pango::Layout::set_markup(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Layout::set_markup(Glib::ustring const&, unsigned int, unsigned int&)@Base" 2.50
+ (c++)"Pango::Layout::set_single_paragraph_mode(bool)@Base" 2.50
+ (c++)"Pango::Layout::set_spacing(int)@Base" 2.50
+ (c++)"Pango::Layout::set_tabs(Pango::TabArray&)@Base" 2.50
+ (c++)"Pango::Layout::set_text(Glib::ustring const&)@Base" 2.50
+ (c++)"Pango::Layout::set_width(int)@Base" 2.50
+ (c++)"Pango::Layout::set_wrap(Pango::WrapMode)@Base" 2.50
+ (c++)"Pango::Layout::show_in_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::Layout::unset_font_description()@Base" 2.50
+ (c++)"Pango::Layout::update_from_cairo_context(std::shared_ptr<Cairo::Context> const&)@Base" 2.50
+ (c++)"Pango::Layout::xy_to_index(int, int, int&, int&) const@Base" 2.50
+ (c++)"Pango::operator!=(Pango::FontDescription const&, Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::operator==(Pango::FontDescription const&, Pango::FontDescription const&)@Base" 2.50
+ (c++)"Pango::_pango_color_new()@Base" 2.50
+ (c++)"Pango::Rectangle::equal(Pango::Rectangle const&) const@Base" 2.50
+ (c++)"Pango::Rectangle::Rectangle()@Base" 2.50
+ (c++)"Pango::Rectangle::Rectangle(int, int, int, int)@Base" 2.50
+ (c++)"Pango::Rectangle::Rectangle(_PangoRectangle const*)@Base" 2.50
+ (c++)"Pango::Renderer::activate()@Base" 2.50
+ (c++)"Pango::Renderer::begin_vfunc()@Base" 2.50
+ (c++)"Pango::Renderer_Class::begin_vfunc_callback(_PangoRenderer*)@Base" 2.50
+ (c++)"Pango::Renderer_Class::class_init_function(void*, void*)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_error_underline_vfunc_callback(_PangoRenderer*, int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_glyph_item_vfunc_callback(_PangoRenderer*, char const*, _PangoGlyphItem*, int, int)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_glyphs_vfunc_callback(_PangoRenderer*, _PangoFont*, _PangoGlyphString*, int, int)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_glyph_vfunc_callback(_PangoRenderer*, _PangoFont*, unsigned int, double, double)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_rectangle_vfunc_callback(_PangoRenderer*, PangoRenderPart, int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_shape_vfunc_callback(_PangoRenderer*, _PangoAttrShape*, int, int)@Base" 2.50
+ (c++)"Pango::Renderer_Class::draw_trapezoid_vfunc_callback(_PangoRenderer*, PangoRenderPart, double, double, double, double, double, double)@Base" 2.50
+ (c++)"Pango::Renderer_Class::end_vfunc_callback(_PangoRenderer*)@Base" 2.50
+ (c++)"Pango::Renderer_Class::init()@Base" 2.50
+ (c++)"Pango::Renderer_Class::part_changed_vfunc_callback(_PangoRenderer*, PangoRenderPart)@Base" 2.50
+ (c++)"Pango::Renderer_Class::prepare_run_vfunc_callback(_PangoRenderer*, _PangoGlyphItem*)@Base" 2.50
+ (c++)"Pango::Renderer_Class::wrap_new(_GObject*)@Base" 2.50
+ (c++)"Pango::Renderer::deactivate()@Base" 2.50
+ (c++)"Pango::Renderer::draw_error_underline(int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_error_underline_vfunc(int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyph_item(Glib::ustring const&, Pango::GlyphItem const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyph_item_vfunc(Glib::ustring const&, Pango::GlyphItem const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyphs(std::shared_ptr<Pango::Font> const&, Pango::GlyphString const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyph(std::shared_ptr<Pango::Font> const&, unsigned int, double, double)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyphs_vfunc(std::shared_ptr<Pango::Font> const&, Pango::GlyphString const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_glyph_vfunc(std::shared_ptr<Pango::Font> const&, unsigned int, double, double)@Base" 2.50
+ (c++)"Pango::Renderer::draw_layout_line(std::shared_ptr<Pango::LayoutLine> const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_layout(std::shared_ptr<Pango::Layout> const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_rectangle(Pango::Renderer::Part, int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_rectangle_vfunc(Pango::Renderer::Part, int, int, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_shape_vfunc(Pango::AttrShape const&, int, int)@Base" 2.50
+ (c++)"Pango::Renderer::draw_trapezoid(Pango::Renderer::Part, double, double, double, double, double, double)@Base" 2.50
+ (c++)"Pango::Renderer::draw_trapezoid_vfunc(Pango::Renderer::Part, double, double, double, double, double, double)@Base" 2.50
+ (c++)"Pango::Renderer::end_vfunc()@Base" 2.50
+ (c++)"Pango::Renderer::get_alpha(Pango::Renderer::Part) const@Base" 2.50
+ (c++)"Pango::Renderer::get_base_type()@Base" 2.50
+ (c++)"Pango::Renderer::get_color(Pango::Renderer::Part) const@Base" 2.50
+ (c++)"Pango::Renderer::get_layout()@Base" 2.50
+ (c++)"Pango::Renderer::get_layout() const@Base" 2.50
+ (c++)"Pango::Renderer::get_layout_line()@Base" 2.50
+ (c++)"Pango::Renderer::get_layout_line() const@Base" 2.50
+ (c++)"Pango::Renderer::get_matrix() const@Base" 2.50
+ (c++)"Pango::Renderer::get_type()@Base" 2.50
+ (c++)"Pango::Renderer::gobj_copy()@Base" 2.50
+ (c++)"Pango::Renderer::operator=(Pango::Renderer&&)@Base" 2.50
+ (c++)"Pango::Renderer::part_changed(Pango::Renderer::Part)@Base" 2.50
+ (c++)"Pango::Renderer::part_changed_vfunc(Pango::Renderer::Part)@Base" 2.50
+ (c++)"Pango::Renderer::prepare_run_vfunc(Pango::GlyphItem const&)@Base" 2.50
+ (c++)"Pango::Renderer::~Renderer()@Base" 2.50
+ (c++)"Pango::Renderer::renderer_class_@Base" 2.50
+ (c++)"Pango::Renderer::Renderer(Glib::ConstructParams const&)@Base" 2.50
+ (c++)"Pango::Renderer::Renderer(_PangoRenderer*)@Base" 2.50
+ (c++)"Pango::Renderer::Renderer(Pango::Renderer&&)@Base" 2.50
+ (c++)"Pango::Renderer::set_alpha(Pango::Renderer::Part, unsigned short)@Base" 2.50
+ (c++)"Pango::Renderer::set_color(Pango::Renderer::Part, Pango::Color const&)@Base" 2.50
+ (c++)"Pango::Renderer::set_matrix(_PangoMatrix const&)@Base" 2.50
+ (c++)"Pango::TabArray::get_positions_in_pixels() const@Base" 2.50
+ (c++)"Pango::TabArray::get_size() const@Base" 2.50
+ (c++)"Pango::TabArray::get_tab(int) const@Base" 2.50
+ (c++)"Pango::TabArray::get_tabs() const@Base" 2.50
+ (c++)"Pango::TabArray::get_type()@Base" 2.50
+ (c++)"Pango::TabArray::gobj_copy() const@Base" 2.50
+ (c++)"Pango::TabArray::operator=(Pango::TabArray&&)@Base" 2.50
+ (c++)"Pango::TabArray::operator=(Pango::TabArray const&)@Base" 2.50
+ (c++)"Pango::TabArray::resize(int)@Base" 2.50
+ (c++)"Pango::TabArray::set_tab(int, Pango::TabAlign, int)@Base" 2.50
+ (c++)"Pango::TabArray::swap(Pango::TabArray&)@Base" 2.50
+ (c++)"Pango::TabArray::~TabArray()@Base" 2.50
+ (c++)"Pango::TabArray::TabArray()@Base" 2.50
+ (c++)"Pango::TabArray::TabArray(int, bool)@Base" 2.50
+ (c++)"Pango::TabArray::TabArray(Pango::TabArray&&)@Base" 2.50
+ (c++)"Pango::TabArray::TabArray(_PangoTabArray*, bool)@Base" 2.50
+ (c++)"Pango::TabArray::TabArray(Pango::TabArray const&)@Base" 2.50
+ (c++)"Pango::wrap_init()@Base" 2.50
+ (c++)"typeinfo for Pango::CairoFontMap@Base" 2.50
+ (c++)"typeinfo for Pango::CairoFontMapImpl@Base" 2.50
+ (c++)"typeinfo for Pango::Context@Base" 2.50
+ (c++)"typeinfo for Pango::Font@Base" 2.50
+ (c++)"typeinfo for Pango::FontFace@Base" 2.50
+ (c++)"typeinfo for Pango::FontFamily@Base" 2.50
+ (c++)"typeinfo for Pango::FontMap@Base" 2.50
+ (c++)"typeinfo for Pango::Fontset@Base" 2.50
+ (c++)"typeinfo for Pango::Layout@Base" 2.50
+ (c++)"typeinfo for Pango::Renderer@Base" 2.50
+ (c++)"typeinfo name for Pango::CairoFontMap@Base" 2.50
+ (c++)"typeinfo name for Pango::CairoFontMapImpl@Base" 2.50
+ (c++)"typeinfo name for Pango::Context@Base" 2.50
+ (c++)"typeinfo name for Pango::Font@Base" 2.50
+ (c++)"typeinfo name for Pango::FontFace@Base" 2.50
+ (c++)"typeinfo name for Pango::FontFamily@Base" 2.50
+ (c++)"typeinfo name for Pango::FontMap@Base" 2.50
+ (c++)"typeinfo name for Pango::Fontset@Base" 2.50
+ (c++)"typeinfo name for Pango::Layout@Base" 2.50
+ (c++)"typeinfo name for Pango::Renderer@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::CairoFontMap*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Context*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Coverage*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Font*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::FontFace*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::FontFamily*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::FontMap*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Fontset*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Layout*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::LayoutLine*)@Base" 2.50
+ (c++)"typeinfo name for void (*)(Pango::Renderer*)@Base" 2.50
+ (c++)"virtual thunk to Pango::CairoFontMap::~CairoFontMap()@Base" 2.50
+ (c++)"virtual thunk to Pango::CairoFontMapImpl::~CairoFontMapImpl()@Base" 2.50
+ (c++)"virtual thunk to Pango::Context::~Context()@Base" 2.50
+ (c++)"virtual thunk to Pango::FontFace::~FontFace()@Base" 2.50
+ (c++)"virtual thunk to Pango::FontFamily::~FontFamily()@Base" 2.50
+ (c++)"virtual thunk to Pango::Font::~Font()@Base" 2.50
+ (c++)"virtual thunk to Pango::FontMap::~FontMap()@Base" 2.50
+ (c++)"virtual thunk to Pango::Fontset::~Fontset()@Base" 2.50
+ (c++)"virtual thunk to Pango::Layout::~Layout()@Base" 2.50
+ (c++)"virtual thunk to Pango::Renderer::~Renderer()@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::CairoFontMap>(Pango::CairoFontMap*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Context>(Pango::Context*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Coverage>(Pango::Coverage*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::FontFace>(Pango::FontFace*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::FontFamily>(Pango::FontFamily*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::FontMap>(Pango::FontMap*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Font>(Pango::Font*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Fontset>(Pango::Fontset*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::LayoutLine>(Pango::LayoutLine*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Layout>(Pango::Layout*)@Base" 2.50
+ (c++)"void Glib::RefPtrDeleter<Pango::Renderer>(Pango::Renderer*)@Base" 2.50
+ (c++)"vtable for Pango::CairoFontMap@Base" 2.50
+ (c++)"vtable for Pango::CairoFontMapImpl@Base" 2.50
+ (c++)"vtable for Pango::Context@Base" 2.50
+ (c++)"vtable for Pango::Font@Base" 2.50
+ (c++)"vtable for Pango::FontFace@Base" 2.50
+ (c++)"vtable for Pango::FontFamily@Base" 2.50
+ (c++)"vtable for Pango::FontMap@Base" 2.50
+ (c++)"vtable for Pango::Fontset@Base" 2.50
+ (c++)"vtable for Pango::Layout@Base" 2.50
+ (c++)"vtable for Pango::Renderer@Base" 2.50
+ (c++)"VTT for Pango::CairoFontMap@Base" 2.50
+ (c++)"VTT for Pango::CairoFontMapImpl@Base" 2.50
+ (c++)"VTT for Pango::Context@Base" 2.50
+ (c++)"VTT for Pango::Font@Base" 2.50
+ (c++)"VTT for Pango::FontFace@Base" 2.50
+ (c++)"VTT for Pango::FontFamily@Base" 2.50
+ (c++)"VTT for Pango::FontMap@Base" 2.50
+ (c++)"VTT for Pango::Fontset@Base" 2.50
+ (c++)"VTT for Pango::Layout@Base" 2.50
+ (c++)"VTT for Pango::Renderer@Base" 2.50
